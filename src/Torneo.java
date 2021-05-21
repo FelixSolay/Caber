@@ -67,10 +67,6 @@ public class Torneo {
 				pw.print(i + " ");
 			}
 			pw.print( "\n");
-			//
-			//Aca va lo que tenemos que hacer
-			//
-			
 		} catch (Exception e) {
 			e.printStackTrace();
 			return false;
