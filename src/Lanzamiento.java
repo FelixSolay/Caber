@@ -2,7 +2,7 @@
 public class Lanzamiento {
 	private double distancia;
 	private double angulo;
-	
+
 	public Lanzamiento(double distancia, double angulo) {
 		this.distancia = distancia;
 		this.angulo = angulo;
@@ -15,7 +15,5 @@ public class Lanzamiento {
 	public double getAngulo() {
 		return angulo;
 	}
-	
-	
-	
+
 }
