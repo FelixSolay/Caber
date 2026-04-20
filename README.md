@@ -32,5 +32,10 @@ Para compilar y ejecutar el proyecto, utiliza los siguientes comandos en la term
    ```bash
    java src/Caber  
 
-   [!NOTE]
 Asegurate de que el archivo caber.in se encuentre en el directorio raíz para que el programa pueda procesar los datos correctamente.
+
+<p align="left">
+<a href="https://www.google.com/search?q=https://github.com/FelixSolay">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Desarrollado%2520por-F%C3%A9lix-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="GitHub Badge">
+</a>
+</p>
